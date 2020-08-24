@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Taskv1</string>
+    <string name="titulo_app">WELCOME</string>
+    <string name="boton">ENTER</string>
+
+</resources>
